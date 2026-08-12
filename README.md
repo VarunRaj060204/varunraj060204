@@ -50,11 +50,23 @@
 <br/>
 
 <p align="left">
-<b>🏆 Metrics &amp; Achievements</b>
+<b>🎴 Summary Cards</b>
 </p>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/VarunRaj060204/VarunRaj060204/main/metrics.svg" width="100%" alt="metrics"/>
+
+<img width="410" src="https://raw.githubusercontent.com/VarunRaj060204/VarunRaj060204/main/profile-summary-card-output/monokai/0-profile-details.svg" alt="profile details"/>
+<img width="410" src="https://raw.githubusercontent.com/VarunRaj060204/VarunRaj060204/main/profile-summary-card-output/monokai/1-repos-per-language.svg" alt="repos per language"/>
+
+<br/>
+
+<img width="410" src="https://raw.githubusercontent.com/VarunRaj060204/VarunRaj060204/main/profile-summary-card-output/monokai/2-most-commit-language.svg" alt="most commit language"/>
+<img width="410" src="https://raw.githubusercontent.com/VarunRaj060204/VarunRaj060204/main/profile-summary-card-output/monokai/3-stats.svg" alt="stats"/>
+
+<br/>
+
+<img width="850" src="https://raw.githubusercontent.com/VarunRaj060204/VarunRaj060204/main/profile-summary-card-output/monokai/4-productive-time.svg" alt="productive time"/>
+
 </div>
 
 <br/>
