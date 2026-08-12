@@ -1,97 +1,68 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Hi%20There,%20I'm%20Varun%20Raj%20👋&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20%26%20Next.js%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;MERN+%26+Next.js+Enthusiast+%F0%9F%92%BB;Cloud+%26+AI%2FML+Explorer+%F0%9F%8C%90;Open+Source+Contributor+%E2%9C%A8" alt="Typing SVG" />
-
-<a href="https://instagram.com/_varuun.raj_">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/varunraj04">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0c29,100:302b63&amp;height=230&amp;section=header&amp;text=Varun%20Raj&amp;fontSize=60&amp;fontColor=fff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Full-Stack%20Developer%20%E2%80%A2%20MERN%20%2B%20Next.js&amp;descAlignY=58&amp;descSize=18" width="100%"/>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%"/>
+<div align="right">
+  <a href="https://instagram.com/_varuun.raj_" target="_blank">
+    <img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram2.svg" alt="Varun Raj | Instagram" />
+  </a>
+  <a href="https://linkedin.com/in/varunraj04" target="_blank">
+    <img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" alt="Varun Raj | LinkedIn" />
+  </a>
+</div>
 
 <br/>
+<br/>
 
-## 💫 About Me
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35" align="left"/>
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Coding.gif" />
+### About Me
 
-- 🚀 Full-stack developer passionate about building **modern, scalable applications** using the **MERN** and **Next.js** stack.
-- 🧑‍💻 Focused on writing clean, efficient, and maintainable code while continuously improving development practices.
-- 🌐 Expanding my expertise in **backend architecture**, **cloud technologies**, and emerging areas like **AI/ML** to build smarter, high-performance systems.
-- 🌟 Driven to create meaningful, user-centric products — always excited to **collaborate**, contribute to **open-source**, and grow in a fast-evolving tech ecosystem.
-- ⚡ Fun fact: I debug faster with coffee ☕ in hand.
+- 🚀 Full-stack developer building **modern, scalable apps** with the **MERN** and **Next.js** stack
+- 🌐 Deepening my skills in **backend architecture**, **cloud tech**, and **AI/ML**
+- 🌱 Always exploring new tools and levelling up my system design chops
+- 💬 Ask me about **React, Node.js, MongoDB, Express**
+- 🤝 Open to collaborating on open-source and side projects
+- 📫 Reach me on the socials above
 
 <br clear="both"/>
 
-## 💻 Tech Stack
+<p align="left">
+<b>🛠️ Things I code with</b>
+</p>
 
-<div align="center">
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,java,js,py,ts,nodejs,express,react,nextjs,jquery,angular,bootstrap,tailwind,mongodb,mysql,postgres,postman,git,github,vscode&amp;theme=dark)](https://github.com/VarunRaj060204)
 
-**Languages**
+<br/>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,html,css,java,js,py&theme=dark" />
+<p align="left">
+<b>📊 Stats</b>
+</p>
 
-**Web Development**
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:10px;">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,ts,react,nextjs,jquery&theme=dark" />
-
-**Frameworks**
-
-<img src="https://skillicons.dev/icons?i=angular,bootstrap,tailwind&theme=dark" />
-
-**Database**
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark" />
-
-**Tools**
-
-<img src="https://skillicons.dev/icons?i=postman,git,github,vscode&theme=dark" />
+<img width="850" src="https://github-readme-activity-graph.vercel.app/graph?username=VarunRaj060204&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true" alt="activity graph"/>
 
 </div>
 
 <br/>
 
-## 📊 GitHub Stats
+<p align="left">
+<b>🏆 Metrics &amp; Achievements</b>
+</p>
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=VarunRaj060204&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VarunRaj060204&theme=radical&hide_border=true" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarunRaj060204&theme=radical&hide_border=true&layout=compact" height="165"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VarunRaj060204&theme=redical&hide_border=true" width="100%"/>
-
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=VarunRaj060204&theme=radical&no-frame=true&row=1&column=7" />
-</div>
-
-## ✍️ Random Dev Quote
-
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+<img src="https://raw.githubusercontent.com/VarunRaj060204/VarunRaj060204/main/metrics.svg" width="100%" alt="metrics"/>
 </div>
 
 <br/>
 
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=VarunRaj060204&icon=5&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=VarunRaj060204&amp;icon=5&amp;color=3)](https://visitcount.itsvg.in)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-
-**Thanks for stopping by! Let's build something amazing together 🚀**
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:302b63,100:0f0c29&amp;height=120&amp;section=footer" width="100%"/>
 
 </div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
